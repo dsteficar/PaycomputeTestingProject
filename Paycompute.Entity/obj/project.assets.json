@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectUniqueName": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "projectName": "Paycompute.Entity",
-      "projectPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "packagesPath": "C:\\Users\\Shtef\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\obj\\",
+      "outputPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shtef\\AppData\\Roaming\\NuGet\\NuGet.Config",

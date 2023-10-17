@@ -2832,11 +2832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectUniqueName": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Services\\Paycompute.Services.csproj",
       "projectName": "Paycompute.Services",
-      "projectPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Services\\Paycompute.Services.csproj",
       "packagesPath": "C:\\Users\\Shtef\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Services\\obj\\",
+      "outputPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shtef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2853,11 +2853,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\GitHub\\EnterpriseApplication\\Paycompute.Persistance\\Paycompute.Persistance.csproj": {
-              "projectPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Persistance\\Paycompute.Persistance.csproj"
+            "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Persistance\\Paycompute.Persistance.csproj": {
+              "projectPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Persistance\\Paycompute.Persistance.csproj"
             }
           }
         }

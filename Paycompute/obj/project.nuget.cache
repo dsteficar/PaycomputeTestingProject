@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LtOLwvYZkZ+C5OagE1ySORiGVS+AmIs6i+C5XxNPlEF3Zc9Dn6mRnZdSKinAGE+zGCUsle7oQOPfnfMkkyxHfQ==",
+  "dgSpecHash": "yIJQpK+qmTyKaCvBvXkvp2pWvHgsZ/bSJlnHg91DNYdaU4c4QRn5pWbJHGNrf/wwUA3T88Nlnkwt3AF5Ldh6pQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\EnterpriseApplication\\Paycompute\\Paycompute.csproj",
+  "projectFilePath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\Paycompute.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shtef\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Shtef\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

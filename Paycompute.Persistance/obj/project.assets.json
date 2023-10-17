@@ -3080,11 +3080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Persistance\\Paycompute.Persistance.csproj",
+      "projectUniqueName": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Persistance\\Paycompute.Persistance.csproj",
       "projectName": "Paycompute.Persistance",
-      "projectPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Persistance\\Paycompute.Persistance.csproj",
+      "projectPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Persistance\\Paycompute.Persistance.csproj",
       "packagesPath": "C:\\Users\\Shtef\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Persistance\\obj\\",
+      "outputPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shtef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3101,8 +3101,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\GitHub\\EnterpriseApplication\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute.Entity\\Paycompute.Entity.csproj"
             }
           }
         }
