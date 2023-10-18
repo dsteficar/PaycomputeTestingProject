@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Paycompute.Models
 {
-    public class EmployeeCreateViewModel
+    public class EmployeeEditViewModel
     {
         public int Id { get; set; }
         [Required(ErrorMessage = "Employee Number is required"),
@@ -17,20 +17,13 @@ namespace Paycompute.Models
         [Required(ErrorMessage = "Last Name is required"), StringLength(50, MinimumLength = 2)]
         [RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$"), Display(Name = "Last Name")]
         public string LastName { get; set; }
-        public string FullName
-        {
-            get
-            {
-                return FirstName + (string.IsNullOrEmpty(MiddleName) ? " " : (" " + (char?)MiddleName[0] + ". ").ToUpper()) + LastName;
-            }
-        }
         public string Gender { get; set; }
         [Display(Name = "Photo")]
         public IFormFile ImageUrl { get; set; }
         [DataType(DataType.Date), Display(Name = "Date Of Birth")]
         public DateTime DOB { get; set; }
         [DataType(DataType.Date), Display(Name = "Date Joined")]
-        public DateTime DateJoined { get; set; } = DateTime.UtcNow;
+        public DateTime DateJoined { get; set; }
         [Required(ErrorMessage = "Job Role is required"), StringLength(100)]
         public string Phone { get; set; }
         public string Designation { get; set; }

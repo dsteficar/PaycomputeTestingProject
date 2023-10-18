@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Paycompute.Entity
 {
@@ -23,11 +17,12 @@ namespace Paycompute.Entity
         public string Gender { get; set; }
         public string ImageUrl { get; set; }
         public DateTime DOB { get; set; }
-        public DateTime DateJoin { get; set; }
+        public DateTime DateJoined { get; set; }
+        public string Phone { get; set; }
         public string Designation { get; set; }
         public string Email { get; set; }
         [Required, MaxLength(50)]
-        public string NationalInsuranceNuo { get; set; }
+        public string NationalInsuranceNo { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
         public StudentLoan StudentLoan { get; set; }
         public UnionMember UnionMember { get; set; }

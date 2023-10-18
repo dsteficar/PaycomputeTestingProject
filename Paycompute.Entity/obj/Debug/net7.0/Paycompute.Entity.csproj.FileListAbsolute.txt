@@ -10,3 +10,15 @@ C:\GitHub\EnterpriseApplication\Paycompute.Entity\obj\Debug\net7.0\Paycompute.En
 C:\GitHub\EnterpriseApplication\Paycompute.Entity\obj\Debug\net7.0\refint\Paycompute.Entity.dll
 C:\GitHub\EnterpriseApplication\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.pdb
 C:\GitHub\EnterpriseApplication\Paycompute.Entity\obj\Debug\net7.0\ref\Paycompute.Entity.dll
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\bin\Debug\net7.0\Paycompute.Entity.deps.json
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\bin\Debug\net7.0\Paycompute.Entity.dll
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\bin\Debug\net7.0\Paycompute.Entity.pdb
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.csproj.AssemblyReference.cache
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.AssemblyInfo.cs
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.dll
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\refint\Paycompute.Entity.dll
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\Paycompute.Entity.pdb
+C:\GitHub\EnterpriseApplication\PaycomputeTestingProject\Paycompute.Entity\obj\Debug\net7.0\ref\Paycompute.Entity.dll
