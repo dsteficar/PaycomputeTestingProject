@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zdzz7gy1ovj2lphdV0ijclFHy0TXdvwDx/+2fo/IG4c=",
+  "Hash": "tFgF8mdtxYq5yvX0Ldy6uAZwlsTlYKwVq1g8o9z2YsE=",
   "Source": "Paycompute",
   "BasePath": "_content/Paycompute",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\css\\style.css",
+      "SourceId": "Paycompute",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\",
+      "BasePath": "_content/Paycompute",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\favicon.ico",
       "SourceId": "Paycompute",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\images\\Paycompute2.gif",
+      "SourceId": "Paycompute",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\",
+      "BasePath": "_content/Paycompute",
+      "RelativePath": "images/Paycompute2.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Paycompute2.gif"
     },
     {
       "Identity": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\js\\site.js",

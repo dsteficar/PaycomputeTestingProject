@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\images\\Paycompute2.gif",
+      "PackagePath": "staticwebassets\\images\\Paycompute2.gif"
     },
     {
       "Id": "C:\\GitHub\\EnterpriseApplication\\PaycomputeTestingProject\\Paycompute\\wwwroot\\js\\site.js",
